@@ -1,6 +1,13 @@
 # O Clone
 
-<p><em><a href="https://diegobernardes95.github.io/O_Clone/">O Clone</a></em> é um projeto pessoal, criado com o intuito de exercitar meus conhecimentos em <kbd>HTML</kbd> e <kbd>CSS</kbd>.<br>Foi desenvolvido um clone da landing page da Netlfix, quase 100% fiel ao original.</p>
+<p><em><a href="https://diegobernardes95.github.io/O_Clone/">O Clone</a></em> é um projeto pessoal, criado com o intuito de exercitar meus conhecimentos básicos.<br>Foi desenvolvido um clone da landing page da Netlfix, quase 100% fiel ao original, utilizando <kbd>HTML</kbd> e <kbd>CSS</kbd> puro.</p>
+
+## Tecnologias
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style=" width:60px;cursor:default"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style=" width:60px;cursor:default"/>
+</div>
 
 ## O Projeto
 
