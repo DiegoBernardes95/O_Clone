@@ -11,4 +11,6 @@
 
 ## O Projeto
 
+<img src="https://user-images.githubusercontent.com/113109526/219037387-421f083e-f09d-467b-a4f3-c2ff3f7af65f.jpg" />
+
 <p>Para acessar o site do projeto, <a href="https://diegobernardes95.github.io/O_Clone/">clique aqui</a>.</p>
